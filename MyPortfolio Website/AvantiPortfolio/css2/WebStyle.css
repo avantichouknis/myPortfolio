@@ -1,0 +1,174 @@
+body{
+    /* background-color: gainsboro; */
+    background-color: rgb(153, 153, 245);
+    /* margin:40px 150px 200px 400px; */
+    /* margin: 0 auto 0 auto;
+    width:10%; */
+    /* Or */
+    text-align: center;
+}
+
+
+.Uppercld{
+   position: relative;
+   left:430px;
+   margin-top:12px;
+}
+
+.lowerCld{
+    position: absolute;
+   left:60px;
+  margin-top:350px;
+  margin-bottom:20px;
+
+}
+
+h2{
+    color:#361500; 
+    font-family:'Merriweather',serif;
+     font-size: 32px;
+     font-weight: 700px;
+  
+}
+
+h1{
+    color: black; 
+     
+    font-family: 'Merriweather',serif;
+     font-size: 40px;
+     font-weight: 600px;
+  
+}
+
+h1 span{
+    color:rgb(58, 58, 160);
+}
+
+.abtme{
+    font-family:verdana,sans-serif;
+     font-size: 45px;
+     font-weight: 600px;
+     color: indigo;
+    
+
+}
+p{
+    font-size: 25px;
+     font-weight: 450px;
+     text-align: center;
+     margin-left: 300px;
+     margin-right: 300px;
+     line-height:2;
+     
+     
+}
+
+.myskills{
+   
+    font-size: 50px;
+    font-weight: 600px;
+    color:#041562;
+  
+}
+.pic{
+    color: #333;
+    border-radius:80px;
+    box-shadow: 10px 10px 5px
+  
+}
+
+h3{
+   
+    font-size: 25px;
+    font-weight: 300px;
+    color: #370665; 
+}
+
+
+img{
+    margin:20px;
+}
+
+.mywork{
+    font-size: 50px;
+    font-weight: 600px;
+    color:#064635
+}
+
+.profiles{
+    font-size: 50px;
+    font-weight: 600px;
+    color: #4C3F91;
+}
+
+
+.contactme{
+    font-size: 50px;
+    font-weight: 600px;
+    color:#064635
+}
+
+h4{
+    font-size: 20px;
+    font-weight: 600px;
+    color:#064635
+
+}
+
+
+
+.footer{
+    padding-bottom: 2px;
+    background-color: #66bfbf;
+ 
+    padding:15 0;
+}
+
+.footer .copywrite{
+    color:#EAF6F6;
+    font-size: 0.85rem;
+    font-weight: 300px;
+    
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+   
+      hr{
+        border-style: none;
+        border-top-style: dotted;
+        width:3%;
+        border-color: gray;
+        border-width:4px;
+      }  
+
+
+      a{
+        color: white;
+      }
+
+
+      
